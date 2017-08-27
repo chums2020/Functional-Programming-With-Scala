@@ -1,0 +1,403 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$13.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$14.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$15.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$16.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$5.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator4$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator5$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator6$1.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class
+binary dependencies:
+6 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Progra~1\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$13
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$14
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$15
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$16
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator4$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator5$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator6$1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+207 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m$untyped
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator4
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator5
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator6
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $u
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> &&
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> +
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ::
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <=
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <init>
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ==
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> >=
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AbstractFunction6
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AnyRef
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Array
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ClassTag
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Column
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DataFrame
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Dataset
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Double
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DoubleType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> List
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Mirror
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nil
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> None
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nothing
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Paths
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Predef
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Product
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Row
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ScalaRunTime
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Serializable
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SingleType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Singleton
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SparkSession
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Statics
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> String
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringContext
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StructType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ThisType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsage
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsageRow
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Type
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeCreator
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeRef
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeTag
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Unit
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Universe
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _4
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _toString
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> age
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ageProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> agg
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> anyHash
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apache
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> appName
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apply
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> as
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asInstanceOf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asModule
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> augmentString
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> avg
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> builder
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> canBuildFrom
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> classifiedColumns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> col
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> collection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columnNames
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> config
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createDataFrame
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createOrReplaceTempView
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> data
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dataFrame
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> df
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dfSchema
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> divide
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> doubleHash
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> drop
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> eq
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> expressions
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> file
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> filter
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalDf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalizeHash
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> first
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> fromSeq
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> fsPath
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> functions
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> get
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getAs
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClass
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClassLoader
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getOrCreate
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getResource
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupBy
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupByKey
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> head
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> headerColumns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> i
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> immutable
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> implicits
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> initDf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> internal
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> isInstanceOf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> it
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> java
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> k
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> line
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> map
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mapPartitionsWithIndex
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeClassTag
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeTypeTag
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mix
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> moduleClass
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ne
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> newProductEncoder
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> nio
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> orderBy
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> org
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> other
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherActivity
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherColumns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> package
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeeds
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsColumns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> r
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> rdd
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> read
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reduce
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> refArrayOps
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reflect
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reificationSupport
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> resource
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> round
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> row
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtime
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtimeMirror
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> s
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scala
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scalalang
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> schema
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> select
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> selectType
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sex
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sexProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> show
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sort
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> spark
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sparkContext
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> split
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sql
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> startsWith
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticClass
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticModule
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticPackage
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summaryDf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summed
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> tail
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> textFile
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageByLifePeriod
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGrouped
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGroupedSqlQuery
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummary
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummaryDf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> to
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toDouble
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toString
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toTypeConstructor
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toURI
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typed
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typedProductIterator
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> types
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> udf
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> unary_!
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> unchecked
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> universe
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> v1
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> v2
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> v3
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> viewName
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> where
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> work
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workColumns
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> working
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workingActivity
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workingStatusProjection
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> x
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ||
+product stamps:
+34 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class -> lastModified(1499702749038)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class -> lastModified(1499702749044)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class -> lastModified(1499702749049)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class -> lastModified(1499702749055)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$13.class -> lastModified(1499702749060)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$14.class -> lastModified(1499702749065)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$15.class -> lastModified(1499702749071)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$16.class -> lastModified(1499702749076)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class -> lastModified(1499702749082)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class -> lastModified(1499702749087)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class -> lastModified(1499702749093)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$5.class -> lastModified(1499702749100)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6.class -> lastModified(1499702749108)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class -> lastModified(1499702749114)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class -> lastModified(1499702749120)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class -> lastModified(1499702749126)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1499702749132)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class -> lastModified(1499702749138)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1499702749142)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1499702749148)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1499702749154)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1499702749160)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1499702749165)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1499702749172)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class -> lastModified(1499702749177)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class -> lastModified(1499702749181)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class -> lastModified(1499702749187)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator4$1.class -> lastModified(1499702749192)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator5$1.class -> lastModified(1499702749200)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator6$1.class -> lastModified(1499702749205)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class -> lastModified(1499702749029)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class -> lastModified(1499702749011)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class -> lastModified(1499702749224)
+C:\Users\ylin\Documents\scalaCourse\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class -> lastModified(1499702749217)
+source stamps:
+1 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> hash(0c50f2e4bf949bc3face2e9d2ab2a7ea1b75a727)
+binary stamps:
+6 items
+C:\Progra~1\Java\jdk1.8.0_131\jre\lib\rt.jar -> lastModified(1494230655935)
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+6 items
+C:\Progra~1\Java\jdk1.8.0_131\jre\lib\rt.jar -> java.lang.Object
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StructField
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.Dataset
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> scala.Serializable
+C:\Users\ylin\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AonNxAH4AmwF1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADt1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AoXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgCwdAAFQXJyYXlxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCwdAAGU3RyaW5nc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQABGphdmFzcQB+ALx0AARsYW5ncQB+AMFwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2cHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAWdGltZXVzYWdlLlRpbWVVc2FnZVJvd3VxAH4AkwAAAAB+cQB+AJV0AAhDbGFzc0RlZnVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+ANUAAAAGc3EAfgCwdAAMU2VyaWFsaXphYmxlc3EAfgC0c3EAfgC3dXEAfgC6AAAAAnNxAH4AvHEAfgC/cQB+AMFzcQB+ALBxAH4A+nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHQAAmlvcQB+AMFzcQB+ALB0AAdQcm9kdWN0cQB+APtzcQB+ALB0AAZFcXVhbHNxAH4A+3NxAH4AsHEAfgDlc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8cQB+AN9xAH4AwXNxAH4AsHEAfgDncQB+APtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0/4Tp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHQzpcVXNlcnNceWxpblxEb2N1bWVudHNcc2NhbGFDb3Vyc2VcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQMUPLkv5Sbw/rOLp0qsqfqG3WnJw==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\ylin\Documents\scalaCourse\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSzIj1B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSzb1pF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0eV1p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0j7y91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0oL0p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0sR3B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0zBQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS02pb51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS06gUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXS0/4Tp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHlsaW5cRG9jdW1lbnRzXHNjYWxhQ291cnNlXHRpbWV1c2FnZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
